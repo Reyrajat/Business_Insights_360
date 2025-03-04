@@ -1,4 +1,4 @@
-# AtliQ-Business-Insights--360
+# Business Insights 360
 
 ## Project Overview
 This project aims to streamline and optimize various aspects of **AtliQ Hardware's** business, including **Finance, Sales, Supply Chain, Executive Management, and Marketing**. The primary objectives and key achievements for each perspective are outlined below.
